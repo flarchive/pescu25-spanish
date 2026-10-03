@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of pescu25/spanish.** Not for installation: use [Packagist](https://packagist.org/packages/pescu25/spanish) or the [upstream repository](https://github.com/pescu25/flarum-ext-spanish).
 
-**0** versions archived · Latest: [`v0.1.0-beta.4`](https://github.com/flarchive/pescu25-spanish/tree/archive/v0.1.0-beta.4) · License: `MIT`
+**1** versions archived · Latest: [`v0.1.0-beta.4`](https://github.com/flarchive/pescu25-spanish/tree/archive/v0.1.0-beta.4) · License: `MIT`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.4` | 2015-11-10 | — | [Browse](https://github.com/flarchive/pescu25-spanish/tree/archive/v0.1.0-beta.4) |
 
 Catalog entry: [packages/pescu25-spanish.json](https://github.com/flarchive/archive-index/blob/main/packages/pescu25-spanish.json)
 
